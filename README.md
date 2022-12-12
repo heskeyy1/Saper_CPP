@@ -1,2 +1,5 @@
 # Saper_CPP
-Saper
+
+Technology:
+*C++
+*Allegro 4.2.2
