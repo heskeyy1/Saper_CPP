@@ -1,0 +1,1182 @@
+# depslib dependency file v1.0
+1555785227 source:c:\users\hyski\onedrive\pulpit\saper-projekt\main.c
+	<stdio.h>
+	<allegro.h>
+	<time.h>
+
+1556997251 source:c:\users\hyski\desktop\saper-projekt\main.c
+	<stdio.h>
+	<allegro.h>
+	<time.h>
+
+1114363574 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185122748 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1182701602 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185075520 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107299532 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182795286 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151098410 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151098410 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107299532 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1181991148 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1181991148 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1142065144 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136077788 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1090956802 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1181991148 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102143390 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073677796 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005098808 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138612656 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097988334 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107299532 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144548448 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125265870 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036104984 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036104984 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144548448 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105910090 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165893276 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036104984 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104434866 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142730334 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142730334 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036104984 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142730334 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149042164 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110312016 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136077788 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036104984 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130564098 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036104984 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007249572 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036104984 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148169248 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036104984 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110272126 c:\users\hyski\desktop\saper-projekt\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
+1558259726 source:c:\users\hyski\desktop\saper-projekt1.1\main.c
+	<stdio.h>
+	<allegro.h>
+	<time.h>
+
+1114363574 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185122748 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1182701602 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185075520 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107299532 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182795286 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151098410 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151098410 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107299532 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1181991148 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1181991148 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1181991148 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1142065144 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136077788 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1090956802 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1181991148 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102143390 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073677796 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005098808 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138612656 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097988334 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107299532 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144548448 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125265870 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036104984 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036104984 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144548448 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105910090 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165893276 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036104984 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104434866 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142730334 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142730334 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036104984 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142730334 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149042164 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110312016 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136077788 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036104984 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130564098 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036104984 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007249572 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036104984 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148169248 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036104984 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110272126 c:\users\hyski\desktop\saper-projekt1.1\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
+1558885906 source:c:\users\hyski\desktop\saper-projekt1.12\main.c
+	<stdio.h>
+	<allegro.h>
+	<time.h>
+
+1114356374 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185115548 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1182694402 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185068320 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107295932 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1181983948 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181983948 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182788086 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151091210 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151091210 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181983948 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107295932 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1181983948 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1181983948 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1181983948 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1181983948 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1142061544 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136074188 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1090949602 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1181983948 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102139790 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073674196 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005095208 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138609056 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097981134 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107295932 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144541248 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125258670 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036101384 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036101384 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144541248 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105906490 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165889676 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036101384 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104431266 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142726734 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142726734 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036101384 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142726734 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149034964 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110308416 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136074188 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036101384 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130556898 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036101384 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007245972 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036101384 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148162048 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036101384 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110268526 c:\users\hyski\desktop\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
+1558889506 source:c:\users\hyski\desktop\hyski\saper-projekt1.12\main.c
+	<stdio.h>
+	<allegro.h>
+	<time.h>
+
+1114359974 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185119148 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1182698002 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185071920 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alplatf.h
+
+1107295932 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1181987548 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182791686 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151094810 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151094810 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1181987548 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107295932 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1181987548 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alosxcfg.h
+
+1181987548 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1181987548 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1181987548 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1142061544 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\unicode.h
+	"base.h"
+
+1136074188 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\config.h
+	"base.h"
+
+1090953202 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\debug.h
+	"base.h"
+
+1181987548 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\mouse.h
+	"base.h"
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\timer.h
+	"base.h"
+
+1102139790 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\keyboard.h
+	"base.h"
+
+1073674196 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\joystick.h
+	"base.h"
+
+1005095208 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\palette.h
+
+1138609056 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1097984734 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107295932 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\fixed.h
+	"base.h"
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144544848 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\al386gcc.h
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\al386vc.h
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\platform\al386wat.h
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\color.inl
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125262270 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036101384 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036101384 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144544848 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\compiled.h
+	"base.h"
+
+1105906490 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\text.h
+	"base.h"
+
+1165889676 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\font.h
+	"base.h"
+
+1036101384 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104431266 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\gui.h
+	"base.h"
+
+1142726734 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142726734 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\digi.h
+	"base.h"
+
+1036101384 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\stream.h
+	"base.h"
+
+1142726734 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\midi.h
+	"base.h"
+
+1149038564 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\file.h
+	"base.h"
+
+1110308416 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\lzss.h
+	"base.h"
+
+1136074188 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\datafile.h
+	"base.h"
+
+1036101384 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130560498 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036101384 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007245972 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\matrix.inl
+
+1036101384 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\quat.h
+	"base.h"
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\3dmaths.inl
+
+1148165648 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\alcompat.h
+
+1036101384 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110268526 c:\users\hyski\desktop\hyski\saper-projekt1.12\allegro-mingw-4.2.2\include\allegro\inline\fix.inl
+
